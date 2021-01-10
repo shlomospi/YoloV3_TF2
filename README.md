@@ -8,6 +8,10 @@ This repo is a clone of https://github.com/zzh8829/yolov3-tf2 to which was added
 - [x] Flag for Outputing a JSON file that summarizes detections in pictures.
 - [x] Default score threshold was changed to 0.7
 
+The outputs can be accessed from google drive:
+https://drive.google.com/drive/folders/11ut0EczYQQhBW-sA9vynq7uJ6fmxENuD?usp=sharing
+
+
 The following is the README file of the original repo
 
 ## Key Features
